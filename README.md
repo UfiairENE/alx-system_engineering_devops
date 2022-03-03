@@ -1,1 +1,2 @@
-this repository contains all shell task from ALX software engineering program
+# alx-system_engineering-devops
+this contains all shell task of alx system engineering devop
